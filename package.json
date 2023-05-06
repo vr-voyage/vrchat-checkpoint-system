@@ -1,0 +1,13 @@
+{
+  "name": "io.github.vr-voyage.simple-scripts.checkpoint-system",
+  "displayName": "io.github.vr-voyage.simple-scripts.checkpoint-system",
+  "version": "0.0.1",
+  "description": "A simple checkpoint system that sets respawn points and allow you to spawn a teleporter back to the main area.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.8"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\PouiposaurusRex\\Documents\\Unity\\CochonsDindes\\Packages\\io.github.vr-voyage.simple-scripts.checkpoint-system"
+}
